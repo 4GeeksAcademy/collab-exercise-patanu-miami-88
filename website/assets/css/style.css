@@ -1,6 +1,22 @@
 body{
     background: #BDBDBD;
 }
+
+ .fh-bar {
+    height:200px;
+    width:100%;  
+    text-align: center; 
+ }
+
+ .fh-bar h2,p{
+    text-align:left;
+ }
+
+ .fh-bar img{
+    height:200px; 
+    width:200px;  
+    text-align:center;  
+ }
 #jumbotron h1 {
     font-size: 150px
 }
