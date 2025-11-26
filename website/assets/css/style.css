@@ -1,16 +1,44 @@
-body{
+body {
     background: #BDBDBD;
 }
 
 
+<<<<<<< Updated upstream
 img{
     height:300px;    
  } 
+=======
+img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+>>>>>>> Stashed changes
 
+.card-title {
+    color: rgb(93, 124, 182);
+    font-size: large;
+}
+
+.card-body {
+    flex: 0 0 auto;
+}
+
+.card {
+    width: 23rem;
+    height: 100%;
+}
+
+.card-img-top {
+    background-color: rgb(163, 159, 159);
+    height: 100%;
+    width: 100%;
+}
 
 #jumbotron h1 {
     font-size: 150px
 }
+
 #jumbotron h2 {
     margin-top: 25px;
     font-size: 80px
