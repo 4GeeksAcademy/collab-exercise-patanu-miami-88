@@ -3,19 +3,11 @@ body {
 }
 
 
-<<<<<<< Updated upstream
 img{
     height:300px;    
     width:300px;
     object-fit: cover;
  } 
-=======
-img {
-    height: 300px;
-    width: 300px;
-    object-fit: cover;
-}
->>>>>>> Stashed changes
 
 .card-title {
     color: rgb(93, 124, 182);
